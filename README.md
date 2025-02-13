@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baazu97
-- 👀 I’m a Data Engineering
+- 👀 I’m a Data Engineer.
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me arbaaz9751@gmail.com or linkedin => https://www.linkedin.com/in/arbaz-khan-27ab5a154/
 
