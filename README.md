@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Baazu97
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Informatica
+- 👀 I’m a Data Engineering
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me arbaaz9751@gmail.com or linkedin => https://www.linkedin.com/in/arbaz-khan-27ab5a154/
 
